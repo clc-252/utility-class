@@ -66,5 +66,5 @@ class Tab {
   }
 }
 let tab = new Tab();
-// 想要new了之后有效果，需要调用addEvent方法，把这个部分写到constructor里
+// 想要new了之后有效果，需要调用addEvent方法
 // tab.addEvent();
